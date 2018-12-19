@@ -95,8 +95,10 @@ a {
   padding: .8rem 3.5rem;
 }
 
-.btn-services {
+.card-body .btn-services {
   width: 80%;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
 }
 
 
