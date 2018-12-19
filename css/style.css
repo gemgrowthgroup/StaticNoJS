@@ -89,10 +89,14 @@ a {
   padding-bottom: 2rem;
 }
 
-.btn {
+.btn-landing {
   border-width: medium;
   text-transform: uppercase;
-  padding: .8rem 4rem;
+  padding: .8rem 3.5rem;
+}
+
+.btn-services {
+  width: 80%;
 }
 
 
