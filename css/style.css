@@ -101,6 +101,25 @@ a {
   padding-bottom: 2vh;
 }
 
+.align-right {
+  padding-top: 5vh;
+  text-align: left;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.fa-check {
+  font-size: 1.4em;
+  margin-right: .7em;
+}
+
+.jumbotron {
+  padding: 4vh;
+}
+
+.jumbotron .btn {
+  margin-top: 4vh;
+}
 
 /*--- SKILLS ---*/
 
@@ -180,6 +199,9 @@ a {
       padding: 1.5rem;
     }
 
+    .jumbotron .btn {
+      margin-top: -10vh;
+    }
 
 }
 
@@ -189,6 +211,10 @@ a {
     .social a {
       font-size: 2.5em;
       padding: 2rem;
+    }
+
+    .jumbotron .btn {
+      margin-top: -10vh;
     }
 
 
